@@ -1,0 +1,2 @@
+# soccerCoin
+Decentralized Soccer Bet 
